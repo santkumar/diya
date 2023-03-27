@@ -5,6 +5,6 @@ Light illumination device for cells cultured in multiwell plates or culture dish
 - CAD files for hardware designs
 - Assembly instructions
 
-## gui
+## software
 - Source code for Diya GUI
 - release version: executable files
