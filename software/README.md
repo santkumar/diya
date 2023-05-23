@@ -1,10 +1,10 @@
 # DIYA
 
-User guide for DIYA version 1.0.1
+User guide for DIYA GUI version 1.0.1
 
 # Installation Instructions
 
-You can either run DIYA as an executable if you install it via the installer or run it yourself via python.
+You can either run the DIYA GUI as an executable if you install it via the installer or run it yourself via python.
 
 ## Option 1: Installing the Compiled Version
 
