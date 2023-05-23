@@ -1,4 +1,4 @@
-# DIYA
+# DIYA GUI
 
 User guide for DIYA GUI version 1.0.1
 
@@ -61,7 +61,7 @@ If Python and pip are not already installed on your computer, follow these instr
    In the terminal, run the following command:
    
    ```
-   git clone https://github.com/sant_kumar/DIYA.git
+   git clone https://github.com/santkumar/diya/tree/main/software/gui
    ```
 
 3. **Navigate to the DIYA directory**
