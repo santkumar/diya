@@ -574,7 +574,7 @@ class well_buttons(QWidget):#
             if self.waveTypeCB.currentIndex() in {1, 2, 3}:
                 self.ParameterFormlayout.addRow(QLabel('Wavelength: '), self.wavelengthSB)
             if self.waveTypeCB.currentIndex() == 4:
-                self.ParameterFormlayout.addRow(QLabel('Duty cycle: '), self.dutyCycleSB)
+                self.ParameterFormlayout.addRow(QLabel('Off time: '), self.dutyCycleSB)
             if self.waveTypeCB.currentIndex() == 4:
                 self.ParameterFormlayout.addRow(QLabel('Period: '), self.periodPWMSB)
             if self.waveTypeCB.currentIndex() in {1, 2, 3, 4}:
