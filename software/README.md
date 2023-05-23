@@ -61,13 +61,13 @@ If Python and pip are not already installed on your computer, follow these instr
    In the terminal, run the following command:
    
    ```
-   git clone https://github.com/santkumar/diya/tree/main/software/gui
+   git clone https://github.com/santkumar/diya
    ```
 
 3. **Navigate to the DIYA directory**
 
    ```
-   cd DIYA
+   cd DIYA/software/gui
    ```
 
 4. **Install the required Python packages**
