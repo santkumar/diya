@@ -152,7 +152,7 @@ The application window is separated into a few distinct areas:
 ---
 
 
-### <a name="markdown-header-Toolbar"></a>Toolbar
+### Toolbar
 > The toolbar allows conveniently opening, saving, starting new programs or exporting programs as well as accessing additional options.
 
 
@@ -362,7 +362,7 @@ When the gradient is created, the wells affected by the gradient are highlighted
 ---
 
 
-### Interactive Preview
+### <a name="markdown-header-Interactive-Preview"></a>Interactive Preview
 > The interactive preview lets you select wells to program. In addition, program information about individual wells can be called out.
 
 #### Selecting Wells
