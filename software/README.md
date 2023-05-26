@@ -146,7 +146,7 @@ The application window is separated into a few distinct areas:
 4. [Selection Type selector](#markdown-header-Selection-Type-selector)
 5. [Parameter Settings](#markdown-header-Parameter-Settings)
 6. [Gradient Designer](#markdown-header-Gradient-Designer)
-7. [Interactiv Preview](#markdown-header-Interactiv-Preview)
+7. [Interactive Preview](#markdown-header-Interactive-Preview)
 
 
 ---
@@ -362,7 +362,7 @@ When the gradient is created, the wells affected by the gradient are highlighted
 ---
 
 
-### <a name="markdown-header-Interactive-Preview"></a>Interactive Preview
+### Interactive Preview
 > The interactive preview lets you select wells to program. In addition, program information about individual wells can be called out.
 
 #### Selecting Wells
