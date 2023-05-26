@@ -152,7 +152,7 @@ The application window is separated into a few distinct areas:
 ---
 
 
-### Toolbar
+### <a name="markdown-header-Toolbar"></a>Toolbar
 > The toolbar allows conveniently opening, saving, starting new programs or exporting programs as well as accessing additional options.
 
 
