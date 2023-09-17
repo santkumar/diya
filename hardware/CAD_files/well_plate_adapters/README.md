@@ -1,0 +1,1 @@
+These are the CAD files for different multiwell plate adapters for Diya. We will keep on updating the repo with new adapter designs compatible with other multiwell plates or dishes. You can also use these designs as the basis for creating other adapters yourself.
