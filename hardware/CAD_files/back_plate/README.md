@@ -1,0 +1,1 @@
+"back_plate_complete" file is the back plate in complete form. If the dimensions of the back plate are too large for your 3D printer, please consider using the part1 and part2 files, which are just splitted parts of the complete back plate. They can be easily attached on the back of the LED panel even in splitted form. Please add an issue if you face any problems.
